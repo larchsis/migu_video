@@ -91,19 +91,16 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme channel="CCTV1综合" start="20260817200125 +0800" stop="20260817200500 +0800">
-        <title lang="zh">前情提要-藏锋-1/23</title>
+        <title lang="zh">前情提要-藏锋-第1集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260817200500 +0800" stop="20260817205535 +0800">
-        <title lang="zh">藏锋1/23</title>
+        <title lang="zh">藏锋第1集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260817205535 +0800" stop="20260817205800 +0800">
-        <title lang="zh">前情提要-藏锋-2/23</title>
+        <title lang="zh">前情提要-藏锋-第2集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260817205800 +0800" stop="20260817214600 +0800">
-        <title lang="zh">藏锋2/23</title>
-    </programme>
-    <programme channel="CCTV1综合" start="20260817214600 +0800" stop="20260817215200 +0800">
-        <title lang="zh">非遗里的中国-MV</title>
+    <programme channel="CCTV1综合" start="20260817205800 +0800" stop="20260817215200 +0800">
+        <title lang="zh">藏锋第2集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260817215200 +0800" stop="20260817220000 +0800">
         <title lang="zh">三餐四季-宣传片</title>
@@ -868,13 +865,13 @@
         <title lang="zh">本集提要-重器-第15集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260817193000 +0800" stop="20260817202540 +0800">
-        <title lang="zh">重器15/33</title>
+        <title lang="zh">重器第15集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260817202540 +0800" stop="20260817203040 +0800">
         <title lang="zh">本集提要-重器-第16集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260817203040 +0800" stop="20260817212440 +0800">
-        <title lang="zh">重器16/33</title>
+        <title lang="zh">重器第16集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260817212440 +0800" stop="20260817212940 +0800">
         <title lang="zh">本集提要-能有多大事-第6集</title>
@@ -1659,8 +1656,11 @@
     <programme channel="CCTV4欧洲" start="20260817105017 +0800" stop="20260817111847 +0800">
         <title lang="zh">国家记忆-2026-89</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260817111847 +0800" stop="20260817120000 +0800">
+    <programme channel="CCTV4欧洲" start="20260817111847 +0800" stop="20260817114517 +0800">
         <title lang="zh">海峡两岸-2026-228</title>
+    </programme>
+    <programme channel="CCTV4欧洲" start="20260817114517 +0800" stop="20260817120000 +0800">
+        <title lang="zh">平凡匠心-2026-68</title>
     </programme>
     <programme channel="CCTV4欧洲" start="20260817120000 +0800" stop="20260817131500 +0800">
         <title lang="zh">中国新闻</title>
