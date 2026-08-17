@@ -48,7 +48,10 @@
     <programme channel="CCTV1综合" start="20260817095300 +0800" stop="20260817110000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260817110000 +0800" stop="20260817120000 +0800">
+    <programme channel="CCTV1综合" start="20260817110000 +0800" stop="20260817114600 +0800">
+        <title lang="zh">淬火年代第3集</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260817114600 +0800" stop="20260817120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme channel="CCTV1综合" start="20260817120000 +0800" stop="20260817123405 +0800">
