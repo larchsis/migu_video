@@ -408,13 +408,16 @@
     <programme channel="CCTV4中文国际" start="20260817095300 +0800" stop="20260817105018 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260817105018 +0800" stop="20260817111918 +0800">
+    <programme channel="CCTV4中文国际" start="20260817105018 +0800" stop="20260817111948 +0800">
         <title lang="zh">国家记忆-2026-89</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260817111918 +0800" stop="20260817112318 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-18</title>
+    <programme channel="CCTV4中文国际" start="20260817111948 +0800" stop="20260817112448 +0800">
+        <title lang="zh">记住乡愁-片段展播-2025-21</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260817112318 +0800" stop="20260817120000 +0800">
+    <programme channel="CCTV4中文国际" start="20260817112448 +0800" stop="20260817113248 +0800">
+        <title lang="zh">记住乡愁-片段展播-2025-28</title>
+    </programme>
+    <programme channel="CCTV4中文国际" start="20260817113248 +0800" stop="20260817120000 +0800">
         <title lang="zh">海峡两岸-2026-228</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20260817120000 +0800" stop="20260817131845 +0800">
