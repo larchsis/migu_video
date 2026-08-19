@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tak" generator-info-url="https://github.com/develop202/migu_video">
+    <channel id="CCTV1综合">
+        <display-name lang="zh">CCTV1综合</display-name>
+    </channel>
+    <programme channel="CCTV1综合" start="20260819000000 +0800" stop="20260819004820 +0800">
+        <title lang="zh">山水间的家（第四季）-5</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819004820 +0800" stop="20260819013220 +0800">
+        <title lang="zh">生活早参考-特别节目（生活圈）2026-225</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819013220 +0800" stop="20260819020420 +0800">
+        <title lang="zh">晚间新闻</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819020420 +0800" stop="20260819022440 +0800">
+        <title lang="zh">人口-2026-33</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819022440 +0800" stop="20260819023455 +0800">
+        <title lang="zh">中华古树-绿色国宝（4K）</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819023455 +0800" stop="20260819024700 +0800">
+        <title lang="zh">中华古树-明清石榴园古树群（4K）</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819024700 +0800" stop="20260819042000 +0800">
+        <title lang="zh">山水间的家（第四季）-5</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819042000 +0800" stop="20260819042200 +0800">
+        <title lang="zh">泱泱中华-历史文化街区1</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819042200 +0800" stop="20260819045300 +0800">
+        <title lang="zh">今日说法-2026-150</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819045300 +0800" stop="20260819052700 +0800">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819052700 +0800" stop="20260819060000 +0800">
+        <title lang="zh">自然中国-地矿宝藏-高原找铜</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819060000 +0800" stop="20260819083550 +0800">
+        <title lang="zh">朝闻天下</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819083550 +0800" stop="20260819092230 +0800">
+        <title lang="zh">生活早参考-特别节目（生活圈）2026-226</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819092230 +0800" stop="20260819101100 +0800">
+        <title lang="zh">淬火年代第6集</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819101100 +0800" stop="20260819105835 +0800">
+        <title lang="zh">淬火年代第7集</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819105835 +0800" stop="20260819114645 +0800">
+        <title lang="zh">淬火年代第8集</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819114645 +0800" stop="20260819120000 +0800">
+        <title lang="zh">中华古树-陕西黑壳楠古树群（4K）</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819120000 +0800" stop="20260819123405 +0800">
+        <title lang="zh">新闻30分</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819123405 +0800" stop="20260819130555 +0800">
+        <title lang="zh">今日说法-2026-151</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819130555 +0800" stop="20260819135425 +0800">
+        <title lang="zh">我的山与海第24集</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819135425 +0800" stop="20260819144205 +0800">
+        <title lang="zh">我的山与海第25集</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819144205 +0800" stop="20260819153135 +0800">
+        <title lang="zh">我的山与海第26集</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819153135 +0800" stop="20260819161825 +0800">
+        <title lang="zh">我的山与海第27集</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819161825 +0800" stop="20260819170710 +0800">
+        <title lang="zh">我的山与海第28集</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819170710 +0800" stop="20260819173855 +0800">
+        <title lang="zh">第一动画乐园-2026-206</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819173855 +0800" stop="20260819182155 +0800">
+        <title lang="zh">生活早参考-特别节目（生活圈）2026-226</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819182155 +0800" stop="20260819185155 +0800">
+        <title lang="zh">文脉春秋-2025-5</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819185155 +0800" stop="20260819190000 +0800">
+        <title lang="zh">秘境之眼-2026-224</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819190000 +0800" stop="20260819193925 +0800">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819193925 +0800" stop="20260819200400 +0800">
+        <title lang="zh">焦点访谈</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819200400 +0800" stop="20260819220000 +0800">
+        <title lang="zh">今夕颂——2026中央广播电视总台七夕晚会-1</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819220000 +0800" stop="20260819223630 +0800">
+        <title lang="zh">晚间新闻</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819223630 +0800" stop="20260819231145 +0800">
+        <title lang="zh">寻古中国-丝绸记2</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260819231145 +0800" stop="20260819235900 +0800">
+        <title lang="zh">山水间的家（第四季）-1</title>
+    </programme>
