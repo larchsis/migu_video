@@ -3306,8 +3306,101 @@
     <channel id="广东卫视">
         <display-name lang="zh">广东卫视</display-name>
     </channel>
-    <programme channel="广东卫视" start="20260904000000 +0800" stop="20260904235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="广东卫视" start="20260903234500 +0800" stop="20260904000500 +0800">
+        <title lang="zh">南粤4K画卷</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904000500 +0800" stop="20260904014200 +0800">
+        <title lang="zh">兵临城下</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904014200 +0800" stop="20260904050200 +0800">
+        <title lang="zh">重播节目、纪录片</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904050200 +0800" stop="20260904054500 +0800">
+        <title lang="zh">三叉戟2(28)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904054500 +0800" stop="20260904063000 +0800">
+        <title lang="zh">三叉戟2(29)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904063000 +0800" stop="20260904065700 +0800">
+        <title lang="zh">广东新闻联播重播</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904065700 +0800" stop="20260904070000 +0800">
+        <title lang="zh">早间天气预报</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904070000 +0800" stop="20260904073000 +0800">
+        <title lang="zh">大美南粤</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904073000 +0800" stop="20260904075800 +0800">
+        <title lang="zh">动画:果蔬宝贝第二季</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904075800 +0800" stop="20260904090000 +0800">
+        <title lang="zh">手枪队(25)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904090000 +0800" stop="20260904095200 +0800">
+        <title lang="zh">手枪队(26)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904095200 +0800" stop="20260904104500 +0800">
+        <title lang="zh">手枪队(27)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904104500 +0800" stop="20260904111500 +0800">
+        <title lang="zh">手枪队(28)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904111500 +0800" stop="20260904121200 +0800">
+        <title lang="zh">健康有道</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904121200 +0800" stop="20260904130500 +0800">
+        <title lang="zh">决战风铃渡(6)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904130500 +0800" stop="20260904135800 +0800">
+        <title lang="zh">决战风铃渡(7)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904135800 +0800" stop="20260904145000 +0800">
+        <title lang="zh">决战风铃渡(8)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904145000 +0800" stop="20260904154200 +0800">
+        <title lang="zh">决战风铃渡(9)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904154200 +0800" stop="20260904163400 +0800">
+        <title lang="zh">决战风铃渡(10)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904163400 +0800" stop="20260904173700 +0800">
+        <title lang="zh">决战风铃渡(11)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904173700 +0800" stop="20260904182300 +0800">
+        <title lang="zh">决战风铃渡(12)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904182300 +0800" stop="20260904183000 +0800">
+        <title lang="zh">广货行天下·每日新品</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904183000 +0800" stop="20260904185600 +0800">
+        <title lang="zh">广东新闻联播</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904185600 +0800" stop="20260904190000 +0800">
+        <title lang="zh">天气预报</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904190000 +0800" stop="20260904193000 +0800">
+        <title lang="zh">转播中央台新闻联播</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904193000 +0800" stop="20260904202500 +0800">
+        <title lang="zh">无间(19)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904202500 +0800" stop="20260904212000 +0800">
+        <title lang="zh">无间(20)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904212000 +0800" stop="20260904214500 +0800">
+        <title lang="zh">晚间新闻</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904214500 +0800" stop="20260904220500 +0800">
+        <title lang="zh">把这里唱给你听·唱游记</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904220500 +0800" stop="20260904225300 +0800">
+        <title lang="zh">深潜(28)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904225300 +0800" stop="20260904233500 +0800">
+        <title lang="zh">深潜(29)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260904233500 +0800" stop="20260905000600 +0800">
+        <title lang="zh">南粤4K画卷</title>
     </programme>
     <channel id="北京卫视">
         <display-name lang="zh">北京卫视</display-name>
@@ -10830,8 +10923,38 @@
     <channel id="嘉佳卡通">
         <display-name lang="zh">嘉佳卡通</display-name>
     </channel>
-    <programme channel="嘉佳卡通" start="20260904000000 +0800" stop="20260904235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="嘉佳卡通" start="20260904000000 +0800" stop="20260904060100 +0800">
+        <title lang="zh">喜羊羊与灰太狼之狂野新宇宙</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260904060100 +0800" stop="20260904080300 +0800">
+        <title lang="zh">猪猪侠之竞速小英雄(六)</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260904080300 +0800" stop="20260904091100 +0800">
+        <title lang="zh">薇薇猫的日常</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260904091100 +0800" stop="20260904141200 +0800">
+        <title lang="zh">奶龙搞怪大作战(二)</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260904141200 +0800" stop="20260904160900 +0800">
+        <title lang="zh">开心超人联盟之勇敢之城</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260904160900 +0800" stop="20260904180900 +0800">
+        <title lang="zh">喜羊羊与灰太狼之古古怪界有古怪</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260904180900 +0800" stop="20260904184600 +0800">
+        <title lang="zh">超级飞侠之奇芯宝藏一</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260904184600 +0800" stop="20260904200500 +0800">
+        <title lang="zh">喜羊羊与灰太狼之古古怪界有古怪</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260904200500 +0800" stop="20260904200800 +0800">
+        <title lang="zh">2026蕃尼蕃尼之嘉有好朋友</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260904200800 +0800" stop="20260904213100 +0800">
+        <title lang="zh">喜羊羊与灰太狼之古古怪界有古怪</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260904213100 +0800" stop="20260905000000 +0800">
+        <title lang="zh">新西游记历险记</title>
     </programme>
     <channel id="经典动画大集合">
         <display-name lang="zh">经典动画大集合</display-name>
