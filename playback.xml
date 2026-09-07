@@ -4383,8 +4383,86 @@
     <channel id="东南卫视">
         <display-name lang="zh">东南卫视</display-name>
     </channel>
-    <programme channel="东南卫视" start="20260908000000 +0800" stop="20260908235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="东南卫视" start="20260908000000 +0800" stop="20260908013700 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908013700 +0800" stop="20260908024500 +0800">
+        <title lang="zh">重播中国正在说</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908024500 +0800" stop="20260908032000 +0800">
+        <title lang="zh">重播原来是这样</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908032000 +0800" stop="20260908035400 +0800">
+        <title lang="zh">重播玩转海岸线</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908035400 +0800" stop="20260908042700 +0800">
+        <title lang="zh">重播心中有片海</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908042700 +0800" stop="20260908053800 +0800">
+        <title lang="zh">重播早餐中国（第五季）</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908053800 +0800" stop="20260908065500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908065500 +0800" stop="20260908070000 +0800">
+        <title lang="zh">东南早间天气预报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908070000 +0800" stop="20260908115700 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908115700 +0800" stop="20260908120000 +0800">
+        <title lang="zh">政绩观短视频:《金字口碑中的政绩观》</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908120000 +0800" stop="20260908123500 +0800">
+        <title lang="zh">海峡午报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908123500 +0800" stop="20260908124200 +0800">
+        <title lang="zh">政绩观短视频:《金字口碑中的政绩观》</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908124200 +0800" stop="20260908180500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908180500 +0800" stop="20260908182400 +0800">
+        <title lang="zh">海好遇见你</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908182400 +0800" stop="20260908183000 +0800">
+        <title lang="zh">东南气象快讯</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908183000 +0800" stop="20260908185800 +0800">
+        <title lang="zh">福建卫视新闻</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908185800 +0800" stop="20260908190000 +0800">
+        <title lang="zh">政绩观短视频:《金字口碑中的政绩观》</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908190000 +0800" stop="20260908193000 +0800">
+        <title lang="zh">转播中央台新闻联播</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908193000 +0800" stop="20260908193400 +0800">
+        <title lang="zh">政绩观短视频:《金字口碑中的政绩观》</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908193400 +0800" stop="20260908211700 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908211700 +0800" stop="20260908211800 +0800">
+        <title lang="zh">政绩观短视频:《金字口碑中的政绩观》</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908211800 +0800" stop="20260908211900 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908211900 +0800" stop="20260908221000 +0800">
+        <title lang="zh">自然公开课:第2集</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908221000 +0800" stop="20260908230000 +0800">
+        <title lang="zh">海峡新干线</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908230000 +0800" stop="20260908230100 +0800">
+        <title lang="zh">政绩观短视频:《金字口碑中的政绩观》</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908230100 +0800" stop="20260908231700 +0800">
+        <title lang="zh">东南晚报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260908231700 +0800" stop="20260909000000 +0800">
+        <title lang="zh">精彩节目</title>
     </programme>
     <channel id="海南卫视">
         <display-name lang="zh">海南卫视</display-name>
