@@ -1,11 +1,11 @@
 央视频道,#genre#
-更新日期: 2026-9-15 06:56:17,http://play.kankanlive.com/live/1698234869325962.m3u8
+更新日期: 2026-9-15 09:07:18,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV9纪录,http://play.kankanlive.com/live/1698423397390920.m3u8
 CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-CCTV风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+CCTV央视文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 卫视频道,#genre#
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
@@ -15,7 +15,6 @@ CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 江苏卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
 东方卫视,http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/dongfangwshd/1200/01.m3u8?msisdn=1e3e33be92f9dc6cfc9f106041a7fa1a&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20260915061407&Channel_ID=0116_2600034600-99000-201600010038055&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=36.134.123.83&SecurityKey=20260915061407&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=ZQ-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=0ef0f984f47ef76404992bb412c7503f&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3dbbd5b383e357b2b30d8d6ebf15b998
 湖北卫视,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/hubeiwshd/2000/01.m3u8?msisdn=52716524446d1059cb6af589715e6c44&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20260915061209&Channel_ID=0116_2600034600-99000-201600010080733&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=36.134.127.196&SecurityKey=20260915061209&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=ZQ-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=79222f0c399405963ae4f926d22d5db1&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b7e36c27b69e5fa8b05323b1e2f4d4e6
-天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
 山东卫视,https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
 山东卫视,https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
 辽宁卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
@@ -24,6 +23,7 @@ CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 吉林卫视,https://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/01.m3u8?&HlsSubType=&encrypt=
 兵团卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/01.m3u8?&HlsSubType=&encrypt=
 广东地区,#genre#
+广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
 广东影视,https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
 湖南地区,#genre#
 长沙县新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
@@ -96,6 +96,7 @@ CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 海门经济生活,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjjzh.m3u8
 大丰一套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
 大丰二套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
+如东1,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
@@ -222,8 +223,6 @@ CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 林颖综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
 宝丰1,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
 新密新闻频道,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
-山西地区,#genre#
-古交电视台,http://pili-live-hls.189.i2863.com/i2863-189/live_189_170656.m3u8
 甘肃地区,#genre#
 嘉峪关综合,https://play.kankanlive.com/live/1658978094528926.m3u8
 嘉峪关公共,https://play.kankanlive.com/live/1658978141553927.m3u8
