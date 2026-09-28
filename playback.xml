@@ -483,10 +483,10 @@
     <programme channel="CCTV5体育" start="20260928070000 +0800" stop="20260928080000 +0800">
         <title lang="zh">体坛晨报-亚运晨报</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260928080000 +0800" stop="20260928140000 +0800">
+    <programme channel="CCTV5体育" start="20260928080000 +0800" stop="20260928143000 +0800">
         <title lang="zh">2026年亚运会-赛事转播报道9-1</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260928140000 +0800" stop="20260928150000 +0800">
+    <programme channel="CCTV5体育" start="20260928143000 +0800" stop="20260928150000 +0800">
         <title lang="zh">体坛快讯-亚运最前沿</title>
     </programme>
     <programme channel="CCTV5体育" start="20260928150000 +0800" stop="20260928213000 +0800">
@@ -838,7 +838,7 @@
         <title lang="zh">本集提要-无可替代-第1集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260928222140 +0800" stop="20260928231140 +0800">
-        <title lang="zh">无可替代1/19</title>
+        <title lang="zh">无可替代第1集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260928231140 +0800" stop="20260928235740 +0800">
         <title lang="zh">无所畏惧之永不放弃第27集</title>
@@ -3732,7 +3732,7 @@
     <programme channel="河北卫视" start="20260928233000 +0800" stop="20260928233300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260928233300 +0800" stop="20260929000000 +0800">
+    <programme channel="河北卫视" start="20260928233300 +0800" stop="20260929000300 +0800">
         <title lang="zh">沃野之上</title>
     </programme>
     <channel id="江西卫视">
